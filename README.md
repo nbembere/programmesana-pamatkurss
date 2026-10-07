@@ -7,7 +7,7 @@ Autors: **Nora Bembere**
 - ieraksti `py uzdevumi/diena1.py`
 
 ## Licence
-Šis projekts izmanto MIT licensi.
+Šis projekts izmanto **MIT** licensi.
 
 
 
